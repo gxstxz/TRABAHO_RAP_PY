@@ -35,5 +35,5 @@ Você pode executar o projeto de forma simples, abrindo pelo cmd e digitando o c
    ```
 
 ##  Feito por:
-- *Francisco Gustavo Oliveira de Araújo*
-- *Phillipe Ramos Ventura* 
+- **Francisco Gustavo Oliveira de Araújo**
+- **Phillipe Ramos Ventura** 
