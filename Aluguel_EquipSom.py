@@ -99,6 +99,9 @@ def verificar_login():
 # Cria a tela de login (tela inicial) e também as configurações de tamanho e etc da tela inicial de Login
 criar_banco()
 cadastrar_usuario("Rogerio", "1234") #Gigante Rogerio o maior de todos
+cadastrar_usuario("João_Func", "26062005")
+cadastrar_usuario("Maria_Func", "MeDaUmAumento")
+cadastrar_usuario("Antonio_Chefe", "@nT0n1O")
 login = tk.Tk()
 login.title("Página de Login - Aluguel Genérico")
 width = 500
