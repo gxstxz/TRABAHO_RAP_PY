@@ -34,3 +34,6 @@ Você pode executar o projeto de forma simples, abrindo pelo cmd e digitando o c
    py Aluguel_EquipSom.py
    ```
 
+##  Feito por:
+- *Francisco Gustavo Oliveira de Araújo*
+- *Phillipe Ramos Ventura*
