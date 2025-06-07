@@ -323,9 +323,6 @@ def Login_Efetuado():
     remover_button = tk.Button(frame1, text="Remover", width=10, bg="#7AC6C0", relief="flat", command=mostrar_remover)
     remover_button.pack(side="left", pady=5, padx=5)
 
-    relatorio_button = tk.Button(frame1, text="Relatório", width=10, bg="#7AC6C0", relief="flat", command=ir_relatorio)
-    relatorio_button.pack(side="left", pady=5, padx=5)
-
 # Após a função ir_relatorio ser acionada, está função abre uma nova janela chamada relatório
 def abrir_relatorio ():
     relatorio = tk.Tk()
